@@ -1,0 +1,66 @@
+===================================================
+COFFEE PROJECT - GIT & GITHUB KULLANIM REHBERİ
+
+Bu rehber, projede çakışmaları önlemek ve düzenli bir ekip çalışması
+yürütmek için hazırlanmıştır. Lütfen kod yazmaya başlamadan önce
+buradaki adımları standart olarak uygulayın.
+
+İLK KURULUM (PROJEYİ BİLGİSAYARA İNDİRMEK)
+
+Projeyi bilgisayarınıza ilk kez kuruyorsanız, terminali (veya Git Bash'i)
+açın ve projeyi indirmek istediğiniz klasörde şu komutu çalıştırın:
+
+git clone https://github.com/UmutCgn/Project-Coffee.git
+
+Not: İndirdikten sonra terminalde proje klasörünün içine girmeyi unutmayın!
+( Komut: cd Project-Coffee )
+
+GÜNLÜK ÇALIŞMA DÖNGÜSÜ (YENİ KOD EKLERKEN)
+
+ÖNEMLİ KURAL: Asla doğrudan 'main' dalında çalışmayın ve kod yazmayın!
+Her yeni özellik veya görev için kendi dalınızı (branch) oluşturun.
+
+ADIM 1: Ana Dalı Güncelleyin
+İşe başlamadan önce projenin en güncel halini bilgisayarınıza alın:
+-> git checkout main
+-> git pull origin main
+
+ADIM 2: Kendi Çalışma Dalınızı Oluşturun
+Yapacağınız işi anlatan kısa ve İngilizce bir isimle yeni dal açın.
+(Örnek isimler: login-ekrani, veritabani-baglantisi, menu-duzenlemesi)
+-> git checkout -b kendi-dal-isminiz
+
+ADIM 3: Kodlarınızı Yazın ve Kaydedin
+Kendi dalınızdayken kodlarınızı yazın, test edin. İşiniz bitince
+değişiklikleri kaydedin:
+-> git add .
+-> git commit -m "Ne yaptığınızı anlatan kısa ve net bir mesaj"
+
+ADIM 4: Kodları GitHub'a Gönderin
+Hazırladığınız dalı uzak sunucuya (GitHub'a) yükleyin:
+-> git push -u origin kendi-dal-isminiz
+
+KODLARI ANA PROJEYE DAHİL ETME (PULL REQUEST)
+
+Kodunuzu GitHub'a gönderdikten sonra terminalle işiniz biter.
+
+Tarayıcıdan projenin GitHub sayfasına gidin.
+
+Sizin gönderdiğiniz dal için yeşil bir "Compare & pull request" butonu
+çıkacaktır. Ona tıklayın.
+
+Ne değişiklik yaptığınızı kısaca yazarak bir "Pull Request (PR)" açın.
+
+Ekip lideri veya diğer arkadaşlar bu kodu inceleyecek ve sorun yoksa
+"Merge" butonuna basarak 'main' dalına aktaracaktır.
+
+===================================================
+ÖZET VE ALTIN KURALLAR
+
+'main' dalı her zaman temiz, çalışan ve hatasız kodları barındırır.
+
+İşinize başlamadan önce her zaman 'git pull origin main' yapın.
+
+Yaptığınız her iş parçası için yeni bir branch açın.
+
+Hata alırsanız panik yapmayın, terminaldeki hatayı ekiple paylaşın.
