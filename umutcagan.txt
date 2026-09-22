@@ -3,10 +3,45 @@
 
 -* MAVİ - ASKERLERİNE EK TALİM YAPTIR 
  Y: military power +5 economy -3 N: army -4
+
 -* MAVİ - ASKERLERİN YEMEKLERİ BEĞENMİYOR ÖZEN GÖSTER 
  Y: army + eco - N:army -
+
 -* MAVİ - KÜÇÜK BİR BİRLİKTE İSYAN VAR MÜDAHALE ET
  Y: army - N: idare-
+
+-* YEŞİL - KOMUTAN BAZI SİLAHLARA BAKIM YAPILMASI GEREKTİĞİNİ SÖYLÜYOR
+ Y: eco- army+ N: eco+ army-
+
+-* ÜLKE CİVARINDA HAREKETLİLİK VAR KONTROL EDİCEK MİSİN
+ Y: army- Happines+ N: Happines- 
+
+-* CİVAR GEZEGENDEKİ ORDULAR HAREKET HALİNDE ORDULARI HAZIR TUTMAK İSTER MİSİN
+ Y: army- eco- N: idare- Happines-
+
+-* HALKIMIZ KENDİNİ GÜVENDE HİSSETMİYOR SOKAKLARA GÜVENLİK KOY
+ Y: army- happines+ N: idare- Happines-
+
+-* KAYNAK ARAMAK İÇİN ASKERLERİ KEŞİFE ÇIKART
+ Y: army- eco+ N: 
+
+-* GİZEMLİ BİR GEZEGENDEN BİR PAKET DÜŞTÜ AÇMAK İSTER MİSİN
+ Y: army+ N:
+
+-* ASKERLER MAAŞLARINA ZAM İSTEDİ YAPICAK MISIN
+ Y: army+ eco- happines+ N: army- 
+
+-* ASKERLERDEKİ DİSİPLİNİ ARTTIRMAK İÇİN DAHA FAZLA KOMUTAN GÖREVE GETİR 
+ Y: eco- army+ N: happines- army-
+
+-* HALK İÇİN DANS FESTİVALİ DÜZENLE
+ Y: eco- happines+ N: happines- idare-
+
+-* KÜÇÜK GİRİŞİMCİLER İÇİN YARDIM KAMPANYASI DÜZENLE
+ Y: happines+ eco+ N: idare- happines- eco-
+
+-* BİR YARDIM ÇAĞRISI ALDIN DOST BİR KOLONİ YARDIM İSTİYOR
+ Y: eco- idare+ happines+ N: happines- idare-
 
 
 
