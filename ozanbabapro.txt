@@ -2,3 +2,15 @@ DÜNYADAN GELEN BİLİM İNSANI SİZİNLE GÖRÜŞMEK İSTİYOR..//
 Y/ +halk N/
 Merhabalar, burada geçici süre kalmamıza ve mürettebatımıza biraz yiyecek verebilir misüniz
 Y/ halk+ Food- Arm-  /N -halk +arm
+if kalmasina izin ver{
+Mürettebatım yeni bi tarım teknolojisi üzerine çalışıyor… yatırım yapalım mı?
+y/ -money n/+money+ //en az 2-3
+mürettebatım gaz yoğunluğunu ayarlayan roketler üzerine çalışmak istiyor… yatırım yapalım mı?
+// same -+money…
+mürettebat yeni bi silah projesi üzerine calismak istiyor yatırım yapalım mı!
+//ss
+if y{ //yatırımlar bi kaç el boyunca para azaltır ardından diyaloga göre +ordu hava para gibi etkenlere katkı sağlar.//}
+
+ 
+
+
