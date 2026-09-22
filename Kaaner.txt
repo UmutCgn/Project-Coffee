@@ -13,5 +13,8 @@ Y/idare+ halk-         N/halk+ idare-
 EKONOMİK KRİZE GİRDİN ŞİRKETLERDEN ZORUNLU VATANSEVER KATKI PAYI ADI ALTINDA VERGİ AL
 Y/ekonomi+ idare+.    N/ekonomi - halk+
 
+ALEYHİNE SOKAKTA PROTESTOLAR YAPILMAYA BAŞLANDI MÜDAHALE ET
+Y/idare+ halk- mutluluk -      N/halk+ idare-
+
 
 
