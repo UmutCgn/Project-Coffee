@@ -3,4 +3,23 @@ Mehmet şimşek
 "Askeri harcamalar bütçemizden yiyor, onları azaltmalıyız!
 +money -army
 
-"
+"Madencilerin çalışma saatini artırmalıyız."
++money -happiness
+
+"Maden sahiplerinin çalışanlar üzerindeki haklarını artırmalıyız."
++money -happiness -idare
+
+"Maden sahipleri borçlarını geri istiyor."
+Öde: -money +güven 
+ödeme: +money -güven
+
+"Çocuklar için sosyal alanlar inşa etmeliyiz."
+evet -money +happiness
+
+"Komşu koloni silahlanmaya başladı."
+Sen de silahlan: +army -money -happiness
+
+"Komşu koloni ücret karşılığında işçilerimizi kiralamak istiyor."
+kabul et: +money -population
+
+
