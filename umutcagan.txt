@@ -1,4 +1,16 @@
--*
+
+  MİLİTARY POWER CARDS
+
+-* MAVİ - ASKERLERİNE EK TALİM YAPTIR 
+ Y: military power +5 economy -3 N: army -4
+-* MAVİ - ASKERLERİN YEMEKLERİ BEĞENMİYOR ÖZEN GÖSTER 
+ Y: army + eco - N:army -
+-* MAVİ - KÜÇÜK BİR BİRLİKTE İSYAN VAR MÜDAHALE ET
+ Y: army - N: idare-
+
+
+
+
 
 
 
