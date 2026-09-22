@@ -9,8 +9,43 @@ mürettebatım gaz yoğunluğunu ayarlayan roketler üzerine çalışmak istiyor
 // same -+money…
 mürettebat yeni bi silah projesi üzerine calismak istiyor yatırım yapalım mı!
 //ss
+DENEY KISMI END. EKLENECEK.
 if y{ //yatırımlar bi kaç el boyunca para azaltır ardından diyaloga göre +ordu hava para gibi etkenlere katkı sağlar.//}
+- komşu gezegenleri keşfe çıkmak istiyoruz. bize destek sağlayın.
+y/ money- +  n/
+-> if y{ //belli bi şansla  bizi savaşa sokabilir. veya savaştan kurtabilir.}
+-okullara dünya müfredati eklemek istiyoruz.
+y/- halk -pow  /no +halk +pow
 
- 
+—-> GOKTASI EVENT 
+gezegene yaklasmakta olan bi göktaşı oldugunu dusunuyoruz. araştırmamızı ister misiniz?
+y/ -money n/ -arm
+->if (y) {- goktaşını saptadık bize koruma için kaynak gerekli. 
+y/—money +arm n/ ++money -
+->kaynak verilirse (t){ 
+-göktaşından gezegenimizi kurtaracak silahı yapmayı basardik!
+dengeli arttıp azaltır. 
+}
+if(bilim adamları alınmadıysa){
+KAHİN——- 
+efendim kahin sizinle acil görüşmek istiyor. çağırayım mı?
+-y/ kahin next kart no/ belli bi süre sonra tekrar gelir.
+if(y){bir cisim yaklaşıyor efendim
+ne?    : anlat?
+-bir cisim yaklaşıyor efendim 
+kimsin sen? — cık dışarı! 
+if(whoru){
+-efendim falıma göre gezegenimize  bir cisim yaklaşıyor napmaliyiz?
+ordu araştırsın./-arm +güven : halk araştırsın./-halk -money
+belli bi kart sonra….
+araştırmalar sonucunda (seciminiz) gezgene çarpacak olan bir meteor tespit ettik . silah icin kaynak gerekli… Y/—money +trust n/belli bi süre sonra tekrae sorar.
+-meteor kurtarma case{
+yaşasın gezegenimizi kurtardık! 
+oranlar dengelenir.}
+
+
+
+
+
 
 
