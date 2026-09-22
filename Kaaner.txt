@@ -2,13 +2,13 @@ BAKANLAR TOPLANTIN VAR KATILMAK ISTIYOR MUSUN?
 Y/idare +  N/idare -    
 
 ESNAF VERGİLERİ ÖDEMİYOR DÜKKANLARINA MÜHÜR ATILSIN MI 
-Y/halk -    N/ekonomi- halk    
+Y/mutluluk-    N/ekonomi-     
 
 UZAY ARACI GELİŞTİRME SÖZLEŞMESİ HAZIR ONAYLIYOR MUSUN
 Y/güç+.   N/ money-
 
 MUHALEFET HABER KAYNAKLARI HAKKINDA YANLIŞ HABER YAPIYOR YAYINLARINI KESMEM İSTİYOR MUSUN
-Y/idare+ halk-         N/halk+ idare-
+Y/idare+ mutluluk-         N/mutluluk+.  idare-
 
 EKONOMİK KRİZE GİRDİN ŞİRKETLERDEN ZORUNLU VATANSEVER KATKI PAYI ADI ALTINDA VERGİ AL
 Y/ekonomi+ idare+.    N/ekonomi - halk+
@@ -16,7 +16,15 @@ Y/ekonomi+ idare+.    N/ekonomi - halk+
 ALEYHİNE SOKAKTA PROTESTOLAR YAPILMAYA BAŞLANDI MÜDAHALE ET
 Y/idare+ halk- mutluluk -      N/halk+ idare-
 
- EĞİTİM SİSTEMİN KÖTÜ YENİ  MODELİ ONAYLA 
+ EĞİTİM SİSTEMİN KÖTÜ YENİ  EĞİTİM MODELİNİ ONAYLA 
 Y/mutluluk+ halk+.  N/halk- mutluluk-
+
+DÜZENLENECEK OLAN FESTİVALLERE HAZİNEDEN PARA AYIR 
+Y/para- mutluluk+    N/mutluluk+
+
+
+
+
+
 
 
